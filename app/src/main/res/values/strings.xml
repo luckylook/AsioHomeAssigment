@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Asio</string>
+    <string name="number_of_tours">מספר הטיולים:</string>
+    <string name="error_min_max">מספר חייב להיות בין 1.01 ל 3</string>
+    <string name="error_value_must_be_double">הערך חייב להיות מספר עשרוני</string>
+    <string name="error_empty_field">מספר חייב להיות בין 1.01 ל 3</string>
+</resources>
